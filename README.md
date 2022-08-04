@@ -1,5 +1,5 @@
 
-# Coffee Shop
+# Coffee Shop App
 # Description
 A coffee shop or cafe is a restaurant that offers limited coffee of different sorts, such as cappuccino, latte, and espresso. Most coffee shops may provide chilled drinks including cold brew, iced coffee, as well as other non-caffeinated refreshments. Coffee has become one of the most popular drinks in the world. Aside from freshwater, some believe it will be the most extensively drank beverage throughout the entire globe. The Coffee Shop app values customer satisfaction and provides a user-friendly environment for customers. It will be a sanctuary of peace and leisure for anybody wishing to gradually depart from life's everyday hardships.
 # Features
@@ -48,6 +48,45 @@ The pattern that is followed for this project is the MVC pattern which helps the
 # Conclusion
 Flutter framework will undoubtedly enable many new developers to develop high-performance and feature-rich mobile applications soon by providing simplicity in the development process, high performance in the resulting mobile application and a rich and relevant user interface for both Android and iOS platforms. The results showed that the application was assessed adequately by the respondents in terms of user acceptability, productivity, maintainability, portability, quality, and reliability.
 
-#App Screenshots:
+# App Screenshots:
 
-![1](https://user-images.githubusercontent.com/78410665/182930561-bff4b89d-078a-45c4-a121-adae59a06b55.PNG)
+![image](https://user-images.githubusercontent.com/78410665/182938142-a196a326-6d89-48e1-bf95-002f44204791.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182938184-22ad2ecc-315d-4f99-8f1f-05b11dc42df2.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182938217-4cf47cf2-028a-4acc-957a-e2920f0429a3.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182938252-8e45f782-5e67-46b8-a844-92951e57387c.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182938299-c10b64c2-cedd-465c-9135-722301fa8793.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182938341-f0f80c62-50bd-41e4-83c5-9cb15f543f87.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182938386-8859eb5c-bbd4-4580-9cc4-886700ab2447.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182938415-5766f87c-70b0-4c12-9048-b8ee406da401.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182938451-fc8ed19a-c20a-44e3-860b-3a5bc5b3f6b1.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182938504-3016f4c4-31b7-49e7-871a-02234f465780.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182938627-6a0cb12b-bede-44c2-82c0-9233e65314f6.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182938560-0d71d4a5-7a25-4a87-81ba-a9577b009ab7.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182938684-a5fe0f8c-dc56-49fe-ba83-4fbafd9dad18.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
