@@ -3,7 +3,7 @@
 # Description
 A coffee shop or cafe is a restaurant that offers limited coffee of different sorts, such as cappuccino, latte, and espresso. Most coffee shops may provide chilled drinks including cold brew, iced coffee, as well as other non-caffeinated refreshments. Coffee has become one of the most popular drinks in the world. Aside from freshwater, some believe it will be the most extensively drank beverage throughout the entire globe. The Coffee Shop app values customer satisfaction and provides a user-friendly environment for customers. It will be a sanctuary of peace and leisure for anybody wishing to gradually depart from life's everyday hardships.
 # Features
-1. Ordering coffee:
+1.Ordering coffee:
 Implementing a pre-ordering function in the app, effectively allows customers to bypass the line and have his\her coffee scalding hot, fresh, and prepared for them when they arrive or ready to deliver at the doorstep.
 2. Notification:
 By implementing this feature, your app's system can identify people who have downloaded your app and appear near your coffee outlet. Therefore, your app can send invitations and welcome messages to these customers and offer them some discounts or offers.
