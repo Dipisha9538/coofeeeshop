@@ -53,8 +53,6 @@ App Screenshots:
 
 ![image](https://user-images.githubusercontent.com/78410665/182938142-a196a326-6d89-48e1-bf95-002f44204791.png)
 
-
-
 ![image](https://user-images.githubusercontent.com/78410665/182938184-22ad2ecc-315d-4f99-8f1f-05b11dc42df2.png)
 
 ![image](https://user-images.githubusercontent.com/78410665/182938217-4cf47cf2-028a-4acc-957a-e2920f0429a3.png)
