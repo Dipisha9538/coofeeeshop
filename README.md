@@ -48,7 +48,8 @@ The pattern that is followed for this project is the MVC pattern which helps the
 # Conclusion
 Flutter framework will undoubtedly enable many new developers to develop high-performance and feature-rich mobile applications soon by providing simplicity in the development process, high performance in the resulting mobile application and a rich and relevant user interface for both Android and iOS platforms. The results showed that the application was assessed adequately by the respondents in terms of user acceptability, productivity, maintainability, portability, quality, and reliability.
 
-# App Screenshots:
+# Appendix
+App Screenshots:
 
 ![image](https://user-images.githubusercontent.com/78410665/182938142-a196a326-6d89-48e1-bf95-002f44204791.png)
 
