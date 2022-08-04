@@ -35,6 +35,7 @@ While doing the task many challenges occurred. Some of them are as follows:
 3. The product was not showing in the dashboard with no error.
 4. The laptop is not working while launching the emulator.
 5. The notification was not showing.
+
 There are some of the features that will be implemented in the future.
 1. Support multiple payment options.
 2. Custom Branding.
