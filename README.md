@@ -3,9 +3,9 @@
 # Description
 A coffee shop or cafe is a restaurant that offers limited coffee of different sorts, such as cappuccino, latte, and espresso. Most coffee shops may provide chilled drinks including cold brew, iced coffee, as well as other non-caffeinated refreshments. Coffee has become one of the most popular drinks in the world. Aside from freshwater, some believe it will be the most extensively drank beverage throughout the entire globe. The Coffee Shop app values customer satisfaction and provides a user-friendly environment for customers. It will be a sanctuary of peace and leisure for anybody wishing to gradually depart from life's everyday hardships.
 # Features
-1.Ordering coffee:
+1. Ordering coffee:
 Implementing a pre-ordering function in the app, effectively allows customers to bypass the line and have his\her coffee scalding hot, fresh, and prepared for them when they arrive or ready to deliver at the doorstep.
-2.Notification:
+2. Notification:
 By implementing this feature, your app's system can identify people who have downloaded your app and appear near your coffee outlet. Therefore, your app can send invitations and welcome messages to these customers and offer them some discounts or offers.
 3. App payments:
 Apps that enable users to connect digital payments have become extremely prevalent as we progress into a digital world. App payments make payment systems easier to use and do not need the appropriate currency on hand, and neither does it necessitates customers to go through their wallets again for the correct mode of payment.
@@ -13,8 +13,7 @@ Apps that enable users to connect digital payments have become extremely prevale
 They'll instantly be able to check whether your coffee company does have cafes in their near region by using their personalized device, so there is little question they'd just get out of their manner to obtain their favorite beverage.
 5. Digital Menu:
 Presenting your catalog with all the commodities and associated pricing is indeed a terrific way to show off the variety of your cafe. Make sure to include a brief overview of components for every item so that customers can quickly comprehend what they should get.
-6. Cart:
-Customer should have added their favorite coffee items first and then go for further processing to purchase online and have their beverages at their doorstep. 
+6. Cart: Customer should have added their favorite coffee items first and then go for further processing to purchase online and have their beverages at their doorstep. 
 7. Description:
 The added product description were shown on the cart page.
 8. Delete:
