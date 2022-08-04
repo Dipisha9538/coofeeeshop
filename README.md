@@ -71,11 +71,12 @@ App Screenshots:
 
 ![image](https://user-images.githubusercontent.com/78410665/182938504-3016f4c4-31b7-49e7-871a-02234f465780.png)
 
-![image](https://user-images.githubusercontent.com/78410665/182938627-6a0cb12b-bede-44c2-82c0-9233e65314f6.png)
-
-![image](https://user-images.githubusercontent.com/78410665/182938560-0d71d4a5-7a25-4a87-81ba-a9577b009ab7.png)
-
 ![image](https://user-images.githubusercontent.com/78410665/182938684-a5fe0f8c-dc56-49fe-ba83-4fbafd9dad18.png)
+
+![image](https://user-images.githubusercontent.com/78410665/182939629-9a97d815-6078-4005-8a78-8de8c43c0b74.png)
+
+
+
 
 
 
