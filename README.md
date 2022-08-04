@@ -28,7 +28,7 @@ For this assignment, coffee shop(e-commerce) apps were implemented which helps t
 of apps. Android Studio helps to get new features and enhancement suggestions over the eclipse termed as Android Development Tools ADT.For the backend MongoDB and NodeJS were implemented:
 2. MongoDB is more scalable and streamlines data connections. MongoDB is ideal for inserting data quickly. We find it incredibly handy for saving reports and metadata because it can dump the JSON it receives without explicitly defining every feature. I use it for this assignment to build a coffee shop website because of the versatility it offers – users shouldn't have to declare any structure or deal with migrations, for example. It's very efficient for many instances. MongoDB offers scalability, making it an ideal choice for several businesses. 
 3. Node.js is a development tool that is extremely fast, elevated, and lightweight, making it perfect for reactive side programming. Node.js allows you to do several activities at the same time. Furthermore, you may use serverless and choose from a variety of cloud computing models and providers, such as Amazon Web Service or Google Cloud Platform.
-# Challenges you faced and features you hope to implement in the future.
+# Challenges You Faced and Features You Hope To Implement In The Future.
 While doing the task many challenges occurred. Some of them are as follows:
 1. Firstly, the emulator crashed while running the code.
 2. Adv was not supported.
@@ -43,12 +43,9 @@ There are some of the features that will be implemented in the future.
 4. Rating and Feedback.
 5. Easy Checkout.
 6. Wishlist Button.
-# Project Architeture(MVC)
+# Project Architeture
 The pattern that is followed for this project is the MVC pattern which helps the controller handle the entire request from the client and will tell the rest of the server what to do with the request it acts as a middleman between the model and view. With this controller receives a request is asked the model for information based on the request and model is responsible for handling all the data logic of a request. So that the model interacts with the database and handles all validation saving updating deleting etc. of the data. The controller never has to worried about how to handle the data it responds based on what the model returns.
 # Conclusion
 Flutter framework will undoubtedly enable many new developers to develop high-performance and feature-rich mobile applications soon by providing simplicity in the development process, high performance in the resulting mobile application and a rich and relevant user interface for both Android and iOS platforms. The results showed that the application was assessed adequately by the respondents in terms of user acceptability, productivity, maintainability, portability, quality, and reliability.
 
-
-
-1.
 ![1](https://user-images.githubusercontent.com/78410665/182930561-bff4b89d-078a-45c4-a121-adae59a06b55.PNG)
