@@ -13,20 +13,22 @@ Apps that enable users to connect digital payments have become extremely prevale
 They'll instantly be able to check whether your coffee company does have cafes in their near region by using their personalized device, so there is little question they'd just get out of their manner to obtain their favorite beverage.
 5. Digital Menu:
 Presenting your catalog with all the commodities and associated pricing is indeed a terrific way to show off the variety of your cafe. Make sure to include a brief overview of components for every item so that customers can quickly comprehend what they should get.
-6. Cart: Customer should have added their favorite coffee items first and then go for further processing to purchase online and have their beverages at their doorstep. 
+6. Cart:
+Customer should have added their favorite coffee items first and then go for further processing to purchase online and have their beverages at their doorstep. 
 7. Description:
 The added product description were shown on the cart page.
 8. Delete:
 Customers can also erase their baskets if they do not like the products or have some issues.
-Profile Change:
+9. Profile Change:
 With a work profile you can securely and privately use the same device for work and personal purposes—your organization manages your work apps and data while your personal apps, data, and usage remain private.
 # What your application does:
 For this assignment, coffee shop(e-commerce) apps were implemented which helps to increase customer loyalty (and boost sales and revenue as a result), and apps are one of the most effective ways of developing a sense of belonging and community among their clientele. With a custom app, coffee shops can reward their customers, speed up proceedings (which is a surefire way of keeping clients happy), and keep in touch with their clientele to develop the communal feel of the business.
 # Why do you use the technologies you used?
-Vs studio, Flutter SDK, Dev Tools, and Android Studio technologies are used in this project to build a Coffee Shop application. It helps to build high-performance, Increase developer agility and productivity. Streamline every stage of development with tools and resources to support developers as they build the next generation of apps. Android Studio helps to get new features and enhancement suggestions over the eclipse termed as Android Development Tools ADT.
-For the backend MongoDB and NodeJS were implemented:
+Vs studio, Flutter SDK, Dev Tools, and Android Studio technologies are used in this project to build a Coffee Shop application.It helps to build high-performance, Increase developer agility and productivity. Streamline every stage of development with tools and resources to support developers as they build the next generation
+of apps. Android Studio helps to get new features and enhancement suggestions over the eclipse termed as Android Development Tools ADT.
+.For the backend MongoDB and NodeJS were implemented:
 MongoDB is more scalable and streamlines data connections. MongoDB is ideal for inserting data quickly. We find it incredibly handy for saving reports and metadata because it can dump the JSON it receives without explicitly defining every feature. I use it for this assignment to build a coffee shop website because of the versatility it offers – users shouldn't have to declare any structure or deal with migrations, for example. It's very efficient for many instances. MongoDB offers scalability, making it an ideal choice for several businesses. 
-Node.js is a development tool that is extremely fast, elevated, and lightweight, making it perfect for reactive side programming. Node.js allows you to do several activities at the same time. Furthermore, you may use serverless and choose from a variety of cloud computing models and providers, such as Amazon Web Service or Google Cloud Platform.
+.Node.js is a development tool that is extremely fast, elevated, and lightweight, making it perfect for reactive side programming. Node.js allows you to do several activities at the same time. Furthermore, you may use serverless and choose from a variety of cloud computing models and providers, such as Amazon Web Service or Google Cloud Platform.
 # Challenges you faced and features you hope to implement in the future.
 While doing the task many challenges occurred. Some of them are as follows:
 1. Firstly, the emulator crashed while running the code.
