@@ -5,7 +5,7 @@ A coffee shop or cafe is a restaurant that offers limited coffee of different so
 # Features
 1.Ordering coffee:
 Implementing a pre-ordering function in the app, effectively allows customers to bypass the line and have his\her coffee scalding hot, fresh, and prepared for them when they arrive or ready to deliver at the doorstep.
-2. Notification:
+2.Notification:
 By implementing this feature, your app's system can identify people who have downloaded your app and appear near your coffee outlet. Therefore, your app can send invitations and welcome messages to these customers and offer them some discounts or offers.
 3. App payments:
 Apps that enable users to connect digital payments have become extremely prevalent as we progress into a digital world. App payments make payment systems easier to use and do not need the appropriate currency on hand, and neither does it necessitates customers to go through their wallets again for the correct mode of payment.
