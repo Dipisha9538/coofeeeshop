@@ -46,5 +46,8 @@ There are some of the features that will be implemented in the future.
 The pattern that is followed for this project is the MVC pattern which helps the controller handle the entire request from the client and will tell the rest of the server what to do with the request it acts as a middleman between the model and view. With this controller receives a request is asked the model for information based on the request and model is responsible for handling all the data logic of a request. So that the model interacts with the database and handles all validation saving updating deleting etc. of the data. The controller never has to worried about how to handle the data it responds based on what the model returns.
 # Conclusion
 Flutter framework will undoubtedly enable many new developers to develop high-performance and feature-rich mobile applications soon by providing simplicity in the development process, high performance in the resulting mobile application and a rich and relevant user interface for both Android and iOS platforms. The results showed that the application was assessed adequately by the respondents in terms of user acceptability, productivity, maintainability, portability, quality, and reliability.
-![1](https://user-images.githubusercontent.com/78410665/182930561-bff4b89d-078a-45c4-a121-adae59a06b55.PNG)
 
+
+
+1.
+![1](https://user-images.githubusercontent.com/78410665/182930561-bff4b89d-078a-45c4-a121-adae59a06b55.PNG)
